@@ -25,6 +25,7 @@ def consolidate_cart(cart)
       consolidated_cart.push(list_item)
     end
   end
+  consolidated_cart
 end
 
 
